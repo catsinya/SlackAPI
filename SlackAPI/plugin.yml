@@ -1,0 +1,7 @@
+name: slack
+main: slack\Main
+version: 1
+api: [1.10.0]
+load: POSTWORLD
+author: _sinya__
+description: slack
